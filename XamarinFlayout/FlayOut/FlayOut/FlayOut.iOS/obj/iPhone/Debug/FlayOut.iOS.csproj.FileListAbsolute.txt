@@ -1,0 +1,8 @@
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\optimized\
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\FlayOut.iOS.csprojAssemblyReference.cache
+F:\Personal\Projects\Xamarin\XamarinFlayout\FlayOut\FlayOut\FlayOut.iOS\obj\iPhone\Debug\FlayOut.iOS.csproj.CoreCompileInputs.cache
